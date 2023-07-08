@@ -20,7 +20,7 @@ A web app used to search prime numbers.
    ```bash
    pip install prime_number-1.0.tar.gz
 
-6. Run web.py using the following command:
+6. In the command prompt, run web.py using the following command:
     
    ```bash
    python web.py
