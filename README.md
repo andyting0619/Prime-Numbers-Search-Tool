@@ -25,6 +25,6 @@
 6. In the command prompt, run web.py using the following command:
     
    ```Bash
-   python web.py
+   python search_tool.py
 
 7. Open your web browser and go to http://127.0.0.1:5000 to access the prime numbers search tool.
