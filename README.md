@@ -6,4 +6,6 @@ A web app used to search prime numbers.
 # Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/workspace/prime-numbers-search-tool
+   git clone https://github.com/andyting0619/Prime-Numbers-Search-Tool
+2. Navigate to the project directory:
+   cd prime-numbers-search-tool
