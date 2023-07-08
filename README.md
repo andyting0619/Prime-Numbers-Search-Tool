@@ -1,8 +1,10 @@
 # Prime-Numbers-Search-Tool
 A web app used to search prime numbers.
+# The Link to the Web Application
+http://searchprime.pythonanywhere.com
 # Requirements
 - Python 3.9 or higher
-# Getting Started
+# How to Use
 1. Download the files.
 2. Run the command prompt as an administrator.
 3. Install flask using the following command:
