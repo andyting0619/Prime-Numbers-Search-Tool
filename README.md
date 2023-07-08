@@ -9,22 +9,22 @@
 2. Run the command prompt as an administrator.
 3. Install flask using the following command:
    
-   ```bash
+   ```Bash
    pip install flask
    
 4. In the command prompt, navigate to the folder in which the file prime_number-1.0.tar.gz is located. For example:
    
-   ```bash
+   ```Bash
    cd /users/user_name/Downloads/Prime-Numbers-Search-Tool-Main
    
 5. Install the required package using the following command:
    
-   ```bash
+   ```Bash
    pip install prime_number-1.0.tar.gz
 
 6. In the command prompt, run web.py using the following command:
     
-   ```bash
+   ```Bash
    python web.py
 
 7. Open your web browser and go to http://127.0.0.1:5000 to access the prime numbers search tool.
