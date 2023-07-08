@@ -2,7 +2,7 @@
 A web app used to search prime numbers.
 # The Link to the Web Application
 http://searchprime.pythonanywhere.com
-# Requirements
+# Requirement
 - Python 3.9 or higher
 # How to Use
 1. Download the files.
