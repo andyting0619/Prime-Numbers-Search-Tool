@@ -15,7 +15,7 @@ http://searchprime.pythonanywhere.com
 4. In the command prompt, navigate to the folder in which the file prime_number-1.0.tar.gz is located. For example:
    
    ```bash
-   cd /users/user_name/Downloads/Prime-Numbers-Search-Tool
+   cd /users/user_name/Downloads/Prime-Numbers-Search-Tool-Main
    
 5. Install the required package using the following command:
    
