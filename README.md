@@ -1,7 +1,7 @@
 # Prime-Numbers-Search-Tool
-A web app used to search prime numbers.
+- A web app used to search prime numbers.
 # The Link to the Web Application
-http://searchprime.pythonanywhere.com
+- http://searchprime.pythonanywhere.com
 # Requirement
 - Python 3.9 or higher
 # How to Use
