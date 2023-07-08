@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+{% block body %}
+<h2>{{ the_title }}</h2>
+<p>The boundaries of the given range are:</p>
+<table>
+    <tr>
+        <td>Lower bound (integer greater than 1):</td>
+        <td>{{ the_lower_bound }}</td>
+    </tr>
+    <tr>
+        <td>Upper bound (integer greater than 1):</td>
+        <td>{{ the_upper_bound }}</td>
+    </tr>
+</table>
+<h3>No prime numbers in the range [{{ the_lower_bound }}, {{ the_upper_bound }}].</h3>
+<form action='/'>
+    <p>To search again, click this button:</p>
+    <p><input value='Search again' type='submit' class='my-button'></p>
+</form>
+{% endblock %}
