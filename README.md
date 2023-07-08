@@ -12,7 +12,7 @@
    ```Bash
    pip install flask
    
-4. Navigate to the folder in which the file prime_number-1.0.tar.gz is located. For example:
+4. In the command prompt, navigate to the folder in which the file prime_number-1.0.tar.gz is located. For example:
    
    ```Bash
    cd /users/user_name/Downloads/Prime-Numbers-Search-Tool-Main
