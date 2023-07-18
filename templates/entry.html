@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+{% block body %}
+<h2>{{ the_title }}</h2>
+<form method='POST' action='/search'>
+    <table>
+        <p>Search for prime numbers in the range [Lower bound, Upper bound]:</p>
+        <tr>
+            <td>Lower bound (integer greater than 1):</td>
+            <td><input name='lower bound' type='TEXT' value='2' width='60'></td>
+        </tr>
+        <tr>
+            <td>Upper bound (integer greater than 1):</td>
+            <td><input name='upper bound' type='TEXT' value='2023'></td>
+        </tr>
+    </table>
+    <p>To start searching, click this button:</p>
+    <p><input value='Search' type='submit' class='my-button'>
+    </p>
+    <p>Note: If you want to check whether a number is a prime, just put the number at the both boundaries.</p>
+    <p>Developed by Andy Ting</p>
+</form>
+{% endblock %}
