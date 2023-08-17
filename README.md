@@ -1,4 +1,4 @@
-# Prime-Numbers-Search-Tool
+# Prime Numbers Search Tool
 - A web application for searching prime numbers.
 # The Link to the Web Application
 - http://searchprime.pythonanywhere.com
