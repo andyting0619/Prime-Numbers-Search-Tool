@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+{% block body %}
+<h2>{{ the_title }}</h2>
+<h3>{{ the_results }} is not a prime number.</h3>
+<form action='/'>
+    <p>To search again, click this button:</p>
+    <p><input value='Search again' type='submit' class='my-button'></p>
+</form>
+{% endblock %}
