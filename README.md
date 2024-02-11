@@ -3,7 +3,7 @@
 # The Link to the Web Application
 - http://searchprime.pythonanywhere.com
 # Requirement
-- Python 3.9 or higher
+- Python 3.7 or higher
 # How to Use
 1. Download and extract the files.
 2. Run the command prompt as an administrator.
