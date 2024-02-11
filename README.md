@@ -5,7 +5,7 @@
 # Requirement
 - Python 3.9 or higher
 # How to Use
-1. Download the files.
+1. Download and extract the files.
 2. Run the command prompt as an administrator.
 3. Install flask using the following command:
    
